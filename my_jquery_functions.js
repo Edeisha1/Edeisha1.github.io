@@ -40,7 +40,7 @@ function opentab(tabname){
 }
 
 
-/* OPEN/CLOSE MENU FUNCTIONS ON INDEX PAGE AT THE BOTTOM*/
+/* OPEN/CLOSE MENU FUNCTIONS ON INDEX PAGE AT THE BOTTOM
 
 let containers = document.querySelectorAll('.container')
 
@@ -68,7 +68,7 @@ else{
 
 }
 
-
+*/
 
 /* issue with menu icon on samsung galaxy s8 width 360 */
 /* issue with menu menu and background image on ipad Air width 820 */
